@@ -142,4 +142,10 @@ public class Application {
 ```
 
 
-In this example, the `PizzaStore` class uses a `PizzaFactory` object to create different types of pizzas based on
+In this example, the `PizzaStore` class uses a `PizzaFactory` object to create different types of pizzas.
+
+## Assignments
+
+* Let's say we are building a car manufacturing system that needs to produce different models of cars, each with their own set of components such as engine, chassis, wheels, and seats. The components for each model can be different, and they may come from different suppliers, but they need to be compatible with each other.
+* Let's say we are building a UI component library that includes buttons, checkboxes, and text fields for different operating systems, such as Windows and macOS. We want to make sure that our library is flexible and extensible so that it can support new operating systems in the future without changing the existing code.
+* Let's say we're building a restaurant ordering system, and we want to offer different types of menu items depending on the type of restaurant. For example, a Mexican restaurant might have tacos, burritos, and enchiladas on the menu, while an Italian restaurant might have pasta dishes, pizzas, and salads. We want to be able to dynamically create menus for different types of restaurants without having to modify the code that creates the menu items.
